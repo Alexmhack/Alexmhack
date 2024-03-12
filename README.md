@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">A passionate Full Stack Web Developer with a knack for ML</h3>
 
-- 🌱 I’m currently learning **Tensorflow & React Native**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Django, Python, ReactJS, JS, NodeJS**
 
