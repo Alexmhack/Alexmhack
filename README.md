@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Django, Python, ReactJS, JS, NodeJS**
+- 💬 Ask me about **Django, Python, JS, ReactJS, VueJS, NodeJS**
 
 
 <h3 align="left">Languages and Tools:</h3>
